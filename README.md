@@ -8,3 +8,5 @@
 AMITPKR/AMITPKR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![repository-open-graph-template](https://user-images.githubusercontent.com/70443251/112744165-35d8f780-8fbb-11eb-9614-17bc135d31ef.png)
+
