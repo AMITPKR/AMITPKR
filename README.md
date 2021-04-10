@@ -9,7 +9,6 @@ AMITPKR/AMITPKR is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-![repository-open-graph-template](https://user-images.githubusercontent.com/70443251/114264728-3eddb600-9a0a-11eb-95b4-6b21af0e94c9.png)
 
 
 
